@@ -1,6 +1,6 @@
 # Unit tests with Jest
 
-### npm test
+### To run tests: npm test
 
 script file has function tests
 
